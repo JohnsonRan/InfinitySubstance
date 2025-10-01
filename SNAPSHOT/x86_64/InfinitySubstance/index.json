@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "architecture": "x86_64",
+  "packages": {
+    "boltbrowser": "2.2-r1",
+    "geoview": "0.1.11-r1",
+    "luci-app-duck": "1.3.5-r1",
+    "luci-i18n-duck-zh-cn": "25.199.23830~35e58b6",
+    "neko-status": "0.1-r1",
+    "node_exporter": "1.9.1-r1",
+    "speedtest-ex": "1.1.3-r1",
+    "v2ray-geoip": "202510011021-r1",
+    "v2ray-geosite": "202510011021-r1",
+    "v2ray-geosite-ir": "202502030035-r1"
+  }
+}
